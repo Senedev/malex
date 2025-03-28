@@ -36,7 +36,7 @@ O script oferece as seguintes funcionalidades, todas ajustáveis no código:
    Clone o repositório ou faça o download do script diretamente:
 
    ```bash
-   git clone https://bitbucket.org/guilhermesene/malex.git
+   git clone https://github.com/Senedev/malex.git
    ```
 
 2. **Dar permissão de execução ao script:**
